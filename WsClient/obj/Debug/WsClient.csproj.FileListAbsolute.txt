@@ -1,0 +1,10 @@
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\bin\Debug\WsClient.exe.config
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\bin\Debug\WsClient.exe
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\bin\Debug\WsClient.pdb
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\obj\Debug\WsClient.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\obj\Debug\WsClient.Form1.resources
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\obj\Debug\WsClient.Properties.Resources.resources
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\obj\Debug\WsClient.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\obj\Debug\WsClient.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\obj\Debug\WsClient.exe
+C:\Users\pablo\source\repos\WebService-Basic\WsClient\obj\Debug\WsClient.pdb
